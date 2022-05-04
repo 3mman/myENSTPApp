@@ -1,0 +1,7 @@
+{
+  "name": "myENSTP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
